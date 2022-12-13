@@ -1,5 +1,5 @@
 #
-# Advent of code: Day1
+# Advent of code: Day1 part 2
 #
 
 calories = {0:0}
